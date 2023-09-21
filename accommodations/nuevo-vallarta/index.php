@@ -67,6 +67,7 @@
 					<li>Bedroom Furnishings: Bedside Tables with Lamps, Dressing Tables with Chairs and Mirrors, and Armchairs with Tables</li>
 					<li>Bathrooms: Five and a Half Bathrooms with Two Jacuzzi Tubs and Double Sinks</li>
 					<li>Outdoor: Private Terraces for Each Bedroom Plus Expansive Private Rooftop Terrace with Kitchen, Bar, Half Bath, and Multiple Sitting, Lounging, and Dining Areas</li>
+					<li>Pool: Large Private Plunge Pool</li>
 					<li>Private Massage Room</li>
 					<li>Kitchen: In-Unit Kitchen and Bar with Premium Appliances and Breakfast Bar</li>
 					<li>Dining: Dining Area with Table for 10</li>
