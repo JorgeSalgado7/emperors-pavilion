@@ -54,7 +54,7 @@
 		<div class="container">
 
 			<h2 class="estates_heritage__h2">About Emperor’s Pavilion</h2>
-			<p class="estates_heritage__p">Emperor’s Pavilion is available exclusively at our largest and most amenity-packed resort destination at Vidanta Nuevo Vallarta. Whether your preferred spot is near the heart of the resort action or seclusion within lush nature, Emperor’s Pavilion delivers an ultra-luxurious vacation experience for discerning travelers who expect the very best.</p>
+			<p class="estates_heritage__p">Emperor’s Pavilion is available exclusively at at the luxurious, amenity-packed destination of Vidanta Nuevo Vallarta. Whether your preferred spot is near the heart of the resort action or seclusion within lush nature, Emperor’s Pavilion delivers an ultra-luxurious vacation experience for discerning travelers who expect the very best.</p>
 
 		</div>
 
