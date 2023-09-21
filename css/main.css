@@ -1,4 +1,5 @@
 @import url("//hello.myfonts.net/count/3b15a5");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
 @import "https://use.typekit.net/fzb5jhn.css";
 @font-face {
   font-family: "mr-eaves";
@@ -247,50 +248,45 @@
         text-align: left;
         margin-top: auto;
         margin-bottom: auto;
-        max-width: 514px;
-        font-size: 75px;
-        line-height: 68px;
+        max-width: 700px;
+        font-size: 70px;
+        line-height: 63px;
         letter-spacing: 1.06; } }
     @media (min-width: 1200px) {
       .estates_hero__h1 {
-        max-width: 609px;
-        font-size: 78px;
+        max-width: 650px;
+        font-size: 75px;
         line-height: 75px; } }
     @media (min-width: 1300px) {
       .estates_hero__h1 {
         max-width: 659px;
-        font-size: 84px;
-        line-height: 81px; } }
+        font-size: 75px;
+        line-height: 75px; } }
     @media (min-width: 1400px) {
       .estates_hero__h1 {
         max-width: 709px;
-        font-size: 90px;
-        line-height: 87px; } }
+        font-size: 78px;
+        line-height: 81px; } }
     @media (min-width: 1500px) {
       .estates_hero__h1 {
         max-width: 759px;
-        font-size: 96px;
-        line-height: 93px; } }
+        font-size: 90px;
+        line-height: 87px; } }
     @media (min-width: 1600px) {
       .estates_hero__h1 {
         max-width: 809px;
-        font-size: 101px;
-        line-height: 98px; } }
+        font-size: 96px;
+        line-height: 93px; } }
     @media (min-width: 1700px) {
       .estates_hero__h1 {
         max-width: 859px;
-        font-size: 107px;
+        font-size: 101px;
         line-height: 98px; } }
     @media (min-width: 1800px) {
       .estates_hero__h1 {
-        max-width: 909px;
+        max-width: 950px;
         font-size: 114px;
-        line-height: 111px; } }
-    @media (min-width: 1900px) {
-      .estates_hero__h1 {
-        max-width: 910px;
-        font-size: 120px;
-        line-height: 117px; } }
+        line-height: 98px; } }
 
 .estates_estates {
   width: 100%;
@@ -1825,7 +1821,7 @@
   font-weight: 300; }
 
 h1, h2, h3, h4 {
-  font-family: 'garamond-premier-pro-display', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400; }
 
 button {
