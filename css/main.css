@@ -1149,39 +1149,39 @@
         font-size: 34px;
         line-height: 1.2em;
         letter-spacing: 0.8px; } }
-  .estates_destinations__grid {
+  .estates_destinations__card {
     width: 100%;
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    gap: 2rem;
-    margin-top: 30px; }
-    @media (min-width: 992px) {
-      .estates_destinations__grid {
-        grid-template-columns: repeat(3, 1fr); } }
+    border-top: 1px solid #e4e4e4;
+    margin-top: 53px;
+    padding: 38px 0; }
     @media (min-width: 1200px) {
-      .estates_destinations__grid {
-        gap: 3.5rem; } }
-    .estates_destinations__grid__item {
+      .estates_destinations__card {
+        display: flex;
+        align-items: center;
+        justify-content: center; } }
+    .estates_destinations__card__img {
       width: 100%; }
-      .estates_destinations__grid__item__img {
-        width: 100%; }
-        .estates_destinations__grid__item__img img {
-          width: 100%; }
-      .estates_destinations__grid__item__h3 {
+      .estates_destinations__card__img img {
         width: 100%;
-        height: 54px;
-        font-size: 21px;
-        line-height: 27px;
-        letter-spacing: 1.24px;
-        margin-top: 21px;
-        text-transform: uppercase;
-        text-align: center; }
+        max-width: 100%; }
         @media (min-width: 1200px) {
-          .estates_destinations__grid__item__h3 {
-            font-size: 24px;
-            line-height: 1.2;
-            letter-spacing: 0.8px; } }
-      .estates_destinations__grid__item__link {
+          .estates_destinations__card__img img {
+            max-width: 859px; } }
+    .estates_destinations__card__text {
+      width: 100%;
+      margin-top: 28px; }
+      .estates_destinations__card__text h2 {
+        width: 100%;
+        max-width: 100%;
+        font-size: 30px;
+        line-height: 32px;
+        letter-spacing: 1px;
+        color: #3c3c3c;
+        text-transform: uppercase; }
+        @media (min-width: 1200px) {
+          .estates_destinations__card__text h2 {
+            max-width: 515px; } }
+      .estates_destinations__card__text a {
         width: 100%;
         height: 62px;
         display: flex;
@@ -1193,17 +1193,19 @@
         line-height: 22px;
         text-transform: uppercase;
         text-align: center;
-        margin-top: 10px;
+        margin-top: 15px;
         transition: 0.3s;
         letter-spacing: 2px;
         font-weight: 400;
         font-family: 'UniversLTPro-LightCond', sans-serif;
         padding: 5px 15px; }
         @media (min-width: 1200px) {
-          .estates_destinations__grid__item__link {
+          .estates_destinations__card__text a {
             font-size: 18px;
-            line-height: 24px; } }
-        .estates_destinations__grid__item__link:hover {
+            line-height: 24px;
+            width: 401px;
+            margin-top: 33px; } }
+        .estates_destinations__card__text a:hover {
           background-color: #000000;
           color: #FFFFFF; }
 
@@ -1322,7 +1324,6 @@
           line-height: 41px;
           max-width: 80%;
           letter-spacing: 0.15em;
-          padding: 0 2.5rem;
           margin-top: 0; } }
     .estates_accommodations_hotel__white__text__ul {
       width: 100%;
@@ -1331,15 +1332,14 @@
         .estates_accommodations_hotel__white__text__ul {
           margin-top: 0; } }
       .estates_accommodations_hotel__white__text__ul li {
-        list-style-position: inside;
         color: #000000;
         margin-top: 10px;
         font-size: 22px; }
         @media (min-width: 1200px) {
           .estates_accommodations_hotel__white__text__ul li {
             font-size: 24px;
-            line-height: 1.8em;
-            padding: 0 2.5rem; } }
+            line-height: 30px;
+            margin-top: 20px; } }
   .estates_accommodations_hotel__white__img {
     width: 100%;
     display: flex;
@@ -1421,7 +1421,6 @@
           line-height: 41px;
           max-width: 80%;
           letter-spacing: 0.15em;
-          padding: 0 2.5rem;
           margin-top: 0; } }
     .estates_accommodations_hotel__green__text__ul {
       width: 100%;
@@ -1430,15 +1429,14 @@
         .estates_accommodations_hotel__green__text__ul {
           margin-top: 0; } }
       .estates_accommodations_hotel__green__text__ul li {
-        list-style-position: inside;
         color: #FFFFFF;
         margin-top: 10px;
         font-size: 22px; }
         @media (min-width: 1200px) {
           .estates_accommodations_hotel__green__text__ul li {
             font-size: 24px;
-            line-height: 1.8em;
-            padding: 0 2.5rem; } }
+            line-height: 30px;
+            margin-top: 20px; } }
   .estates_accommodations_hotel__green__img {
     width: 100%;
     display: flex;
