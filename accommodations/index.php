@@ -108,11 +108,15 @@
 
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
-					<img src="../img/accommodations/floorplans/level-1.webp" alt="">
+						<h3>Level 1</h3>
+						<img src="../img/accommodations/floorplans/level-1.webp" alt="">
 					</div>
+
 					<div class="swiper-slide">
-					<img src="../img/accommodations/floorplans/level-2.webp" alt="">
+						<h3>Level 2</h3>
+						<img src="../img/accommodations/floorplans/level-2.webp" alt="">
 					</div>
+
 				</div>
 	
 				<div class="swiper-button-prev"><i class="bi bi-arrow-left"></i></div>
